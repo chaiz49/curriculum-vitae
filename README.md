@@ -40,7 +40,7 @@
 **Eusebio Tejeda** <br> **_Escuela Nautica Mercante de Tampico "Luis Gonzaga Priego Gonsales"_** <br> **Cargo: _Capitan en el buque tanque el señor de los mares_** <br> **Telefono de contacto: 2288567890** <br>
 **Carlos Martinez** <br> **_Escuela Nautica Mercante de Veracruz "Fernando Siliceo y Torres"_** <br> **Cargo: _Capitan en el buque granelero poseidon_** <br> **Telefono de contacto: 2288467999** <br>
 ## Capacitaciones Adicionales ##
-**diplomado en tecnicas de supervivencia**
-**diplomado en manejo de cargas peligrosas**
-**diplomado en control ambiental**
-**diploamdo en ingles**
+**diplomado en tecnicas de supervivencia**<br>
+**diplomado en manejo de cargas peligrosas**<br>
+**diplomado en control ambiental**<br>
+**diploamdo en ingles**<br>
